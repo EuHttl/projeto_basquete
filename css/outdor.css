@@ -1,0 +1,105 @@
+    /* Codigo Todo */
+    *{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        font-family: Arial, Helvetica, sans-serif
+    }
+        
+        /* Cabeçalho */
+    header{
+    background-color: red;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+    border-bottom: 3px solid black;
+    }
+    
+    /* Grid de Produtos */
+    .container{
+        background-color: #000000;
+        min-height: 60vh;
+        padding: 50px;
+    }
+    
+    .card{
+        width: 31%;
+        display: inline-block;
+        margin: 1% 1%; 
+        padding: 15px;
+        
+    }
+    
+    .products-image{
+        height: 300px;
+        width: 100%;
+        margin-bottom: 10px;
+        background-position: center;
+        background-size: cover;
+        border: 2px solid #eee;
+    }
+    
+    .products-container{
+        max-width: 1200px;
+        margin: 0 auto;
+        
+    }
+    
+    #img-1{
+        background-image: url('../assets/71B51kOV9FL._SS400_.jpg');
+        
+    }
+    #img-2{
+        background-image: url('../assets/homens-sapatos-de-basquete-marca-profiss_description-8.jpg');
+        
+    }
+    #img-3{
+        background-image: url('../assets/mb011-338b1526286bf423a816473545412867-480-0.jpg');
+    }
+    #img-4{
+        background-image: url('../assets/os-melhores-tenis-usados-na-temporada-2020-2021-da-nba-os-melhores-tenis-usados-na-temporada-2020-2021-da-nba.jpeg');
+    }
+    #img-5{
+        background-image: url('../assets/nikenews_kobe-6-protro-shoe-2_original_hd_16001-dbe72b7ef079a8044416232390649975-1024-1024.jpg');
+    }
+    #img-6{
+        background-image: url('../assets/8ae68ebcfa04ca88e5a522b30f718b91.jpg');
+    }
+    
+    h3{
+        margin-bottom: 10px;
+        color: red;
+        border-left: 5px solid red;
+        padding-left: 7px;
+        font-size: 24px;
+    }
+    .card p{
+        margin-bottom: 10px;
+        color: #eee;
+        
+        
+    }
+    .bold{
+        font-weight: bold;
+    }
+    .btn {
+        display: block;
+        width: 100%;
+        text-align: center;
+        text-transform: uppercase;
+        text-decoration: none;
+        background-color: red;
+        color: #eee;
+        padding: 15px;
+        border-radius: 5px;
+    }
+    
+    /* Footer */
+    
+    footer {    
+        background-color: red;
+        color: #eee;
+        border-top: 3px solid black;
+        text-align: center;
+        padding: 80px;
+    }
