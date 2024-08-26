@@ -64,7 +64,7 @@ header h1{
     margin-bottom: 10px;
     background-position: center;
     background-size: cover;
-    border: 2px solid #eee;
+    border: 2px solid #c44848;
 }
 
 .products-container{
@@ -74,24 +74,24 @@ header h1{
 }
 
 #img-1{
-    background-image: url('../assets/71B51kOV9FL._SS400_.jpg');
+    background-image: url('../assets/9899865G.avif');
     
 }
 #img-2{
-    background-image: url('../assets/homens-sapatos-de-basquete-marca-profiss_description-8.jpg');
+    background-image: url('../assets/02675915A4.avif');
     
 }
 #img-3{
-    background-image: url('../assets/mb011-338b1526286bf423a816473545412867-480-0.jpg');
+    background-image: url('../assets/All-Pro\ Nitro.avif');
 }
 #img-4{
-    background-image: url('../assets/os-melhores-tenis-usados-na-temporada-2020-2021-da-nba-os-melhores-tenis-usados-na-temporada-2020-2021-da-nba.jpeg');
+    background-image: url('../assets/FB9-3523-888_zoom1.webp');
 }
 #img-5{
-    background-image: url('../assets/nikenews_kobe-6-protro-shoe-2_original_hd_16001-dbe72b7ef079a8044416232390649975-1024-1024.jpg');
+    background-image: url('../assets/M13RYH52A4.avif');
 }
 #img-6{
-    background-image: url('../assets/8ae68ebcfa04ca88e5a522b30f718b91.jpg');
+    background-image: url('../assets/M13CLL19A4.avif');
 }
 
 h3{
